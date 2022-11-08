@@ -15,3 +15,7 @@ its the web API for ZRH/LSZH Zürich Airport Airport arrivals/departures Table (
 A lot of other API endpoints are charchged and very limited. 
 
 
+Bugs: I didnt find a way to change the time to 24h converting, some icons of airlines are wrong perhaps or not implemented now.
+if you change your window on pc the characters and numbers rotating very strange. But if you reload the side it works again.
+
+happy flying
